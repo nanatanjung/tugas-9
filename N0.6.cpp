@@ -20,5 +20,6 @@ main() {
 				
 			else
 				angka ++;
+		cout<<endl;
 	}
 }
