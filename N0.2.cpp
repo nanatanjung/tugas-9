@@ -10,6 +10,7 @@ int main() {
 			setw(3);
 			cout<<setw(3)<<i*j<<" ";
 		}
+		cout<<endl;
 	
 	}
 }
