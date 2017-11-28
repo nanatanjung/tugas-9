@@ -6,5 +6,6 @@ main () {
 		for(int j = 0; j < 5; j++) {
 			cout<<i + j<<"  ";
 		}
+		cout<<endl;
 	}
 }
