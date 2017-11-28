@@ -8,5 +8,6 @@ main () {
 			setw(4);
 			cout<<setw(4)<<i*j;
 		}
+		cout<<endl;
 	}
 }
